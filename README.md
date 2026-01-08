@@ -20,7 +20,7 @@
 ## Discord - FAFS
 
 1. Join the Discord server for more scripts!
-```
+
 Discord - FAFS:
 https://discord.gg/GwqezTuE
 

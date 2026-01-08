@@ -17,13 +17,18 @@
 - **ox_inventory Support:** Items are directly managed in the player inventory.  
 - **Modular & Customizable:** Easily extendable to suit your server needs.  
 
+## Discord - FAFS
+
+1. Join the Discord server for more scripts!
+```
+Discord - FAFS:
+https://discord.gg/GwqezTuE
+
 ## Installation
 
 1. Clone or download the repository.  
 2. Copy the folder into your FiveM `resources` directory.  
 3. Add the resource to your `server.cfg`:
-Discord - FAFS:
-https://discord.gg/GwqezTuE
 ```
 cfg
 ensure lscripts_moneywash

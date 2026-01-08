@@ -18,4 +18,4 @@
 3. Add the resource to your `server.cfg`:
 
 ```cfg
-ensure oney_wash
+ensure lscripts_moneywash

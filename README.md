@@ -22,7 +22,11 @@
 1. Clone or download the repository.  
 2. Copy the folder into your FiveM `resources` directory.  
 3. Add the resource to your `server.cfg`:
-```Discord - FAFS:
+Discord - FAFS:
 https://discord.gg/GwqezTuE
-```cfg
+```
+cfg
 ensure lscripts_moneywash
+
+Discord - FAFS:
+https://discord.gg/GwqezTuE
